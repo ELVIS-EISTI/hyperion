@@ -25,6 +25,6 @@ la fonction efface le terminal pour actualiser l'affichage
 pour sélectionner une option, l'utilisateur se sert des flèches directionnelles et de la touche entrée  
 exemple : "choice_menu("Menu :","Option 1;Option 2;Option 3;Option 4");"  
 
-keyPress() :  
+keyPress :  
 fonction qui détecte si une touche a été préssée et retourne le caractère correspondant sans arrêter le programme  
 exemple : "printf("%c",keyPress());"  
