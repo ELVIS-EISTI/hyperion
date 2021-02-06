@@ -1,5 +1,5 @@
 # hyperion
-Hyperion est une librairie qui permet d'ajouter certaine fonctions et procédures basiques à un projet en c.  
+Hyperion est une librairie qui permet d'ajouter certaines fonctions et procédures basiques à un projet en c.  
 Elle dispose principalement d'outils simplifiant la saisie ou l'affichage.  
   
 clear :  
@@ -21,10 +21,10 @@ exemple : "number_menu("Menu :","Option 1;Option 2;Option 3;Option 4");"
 
 choiceMenu :  
 fonction qui retourne le numéro associé au choix d'un utilisateur parmi plusieurs options  
-la fonction efface le terminal pour actuliser l'affichage  
-pour selectionner une option, l'utilisateur se sert des flèches directionnelles et de la touche Entrée  
+la fonction efface le terminal pour actualiser l'affichage  
+pour sélectionner une option, l'utilisateur se sert des flèches directionnelles et de la touche entrée  
 exemple : "choice_menu("Menu :","Option 1;Option 2;Option 3;Option 4");"  
 
 keyPress() :  
-fonction qui détecte si une touche a été préssée et retourne le charactère correspondand sans arreter le programme  
+fonction qui détecte si une touche a été préssée et retourne le caractère correspondant sans arrêter le programme  
 exemple : "printf("%c",keyPress());"  
