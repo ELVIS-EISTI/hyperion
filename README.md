@@ -29,6 +29,6 @@ keyPress :
 fonction qui détecte si une touche a été préssée et retourne le caractère correspondant sans arrêter le programme  
 exemple : "printf("%c",keyPress());"  
 
-delay : 
+delay :  
 fonction qui arrete le programme pendant un temps en milisecondes  
 //exemple : "delay(1000);"  
