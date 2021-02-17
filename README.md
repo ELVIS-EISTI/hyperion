@@ -31,4 +31,4 @@ exemple : "printf("%c",keyPress());"
 
 delay :  
 fonction qui arrete le programme pendant un temps en milisecondes  
-//exemple : "delay(1000);"  
+exemple : "delay(1000);"  
